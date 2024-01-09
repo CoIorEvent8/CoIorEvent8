@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white alt=lua style="margin-bottom: 5px;" />
 </span>
 <span>
-  <img src="https://komarev.com/ghpvc/?username=CoIorEvent8&&style=for-the-badge&color=orange&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=CoIorEvent8&&style=for-the-badge&abbreviated=true" />
 </span>
 
 ---
