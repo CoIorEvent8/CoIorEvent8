@@ -1,4 +1,4 @@
-![Banner](https://github.com/CoIorEvent8/CoIorEvent8/blob/e9169ab144937b91e0b33786ffe45640a1bc5235/banner.png)
+![Banner](https://github.com/CoIorEvent8/CoIorEvent8/blob/8115ce3df0270238b50ec7b1283002ef969a9192/CoIorEvent.gif)
 
 <span>
 <img src=https://img.shields.io/badge/luau-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white alt=lua style="margin-bottom: 5px;" />
